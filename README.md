@@ -55,18 +55,6 @@ A functional, miniature implementation of a distributed log in C# to demonstrate
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priceds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top_languages/?username=priceds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-
-</div>
-
----
-
 <div align="center">
   <sub>Let's discuss System Design, .NET Performance, or AI Integration.</sub><br/>
   <a href="https://linkedin.com/in/yourprofile">
