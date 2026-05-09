@@ -92,10 +92,15 @@ An MCP server for SQL Server, focused on giving agents a safer bridge into relat
 
 Built around fast exact search plus native edit-distance search, inspired by research-paper-driven search/indexing ideas.
 
-### ⚙️ [lifecyclex](https://github.com/priceds/lifecyclex)
-**A high-fidelity IoC container built from first principles.**
+### 🧩 [UBHeap](https://github.com/priceds/UBHeap)
+**Partial-order sorting and heap primitives for modern .NET.**
 
-An exploration of dependency lifetimes, graph resolution, scoped disposal, and the hidden costs behind comfortable abstractions.
+Inspired by unified-bound heaps research, built for dependency graphs, schedulers, workflow engines, and repeated DAG sorting.
+
+### ⚡ [SimdQuickHeap](https://github.com/priceds/SIMDQuickHeap)
+**A high-performance C#/.NET priority queue inspired by the 2026 SimdQuickHeap paper.**
+
+Built around SIMD-aware heap layouts for large task schedulers, graph workloads, simulations, and interleaved push/pop queues.
 
 ---
 
